@@ -2,12 +2,14 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: teal;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 100px;
 }
 
 .orange-color {
     color: orange;
+    color: chartreuse;
 }
