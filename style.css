@@ -99,12 +99,22 @@ h3 {
 
 }
 
+hr {
+    width: 90%;
+    height: 5px;
+    background-color: lightseagreen;
+
+}
+
 footer>p {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    font-size: x-large;
-    color: orange;
+    font-size: 30px;
+    font-family: 'Foldit', cursive;
+
+
+
 
 
 }
